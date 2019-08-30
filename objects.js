@@ -1,5 +1,5 @@
 var playlist = {
-  "Avenged Sevenfold": "Nightmare" 
+  Nirvana: "Love Buzz" 
 }
 
 function updatePlaylist(obj, artist, name) {
